@@ -1,0 +1,21 @@
+body, html { font-family: Verdana; font-size: 12px; background-color: #e4e0d8; }
+.floaterL { float: left; width: 300px; }
+.floaterR { float: left; width: 300px; padding-left: 10px; }
+.floaterB { width: 610px; margin-bottom: 5px; }
+.floaterT { float: left; width: 70px; text-align: right; padding-right: 3px; }
+.floaterTT { float: left; width: 70px; text-align: left; padding-right: 3px; }
+.floaterT2 { float: left; width: 140px; }
+.floaterT3 { float: left; width: 90px; margin-left: 70px; }
+.floaterT4 { float: left; width: 100px; border-left: 1px solid #7b7358; padding-left: 6px; }
+.floaterT5 { float: left; width: 400px; border-left: 1px solid #7b7358; padding-left: 6px; }
+.floaterT6 { float: left; width: 130px; margin-left: 70px; }
+.clear { clear: both; }
+.spacer { width: 610px; height: 4px; background-color: #7691ab; margin: 4px 0; border-top: 2px solid #7899ad; }
+.error { width: 600px; position: absolute; left: 50%; margin-left: -300px; padding-left: 30px; text-align: left; border: 1px solid #7b7358; background-color: #e8e7e0; color: #D11; font-weight: bold; font-size: 16px; }
+.ampWarning { color: #F00; }
+h1 { font-size: 18px; }
+a, a:visited { color: #7b7358; text-decoration: none; }
+a:hover { color: #7691ab; text-decoration: underline; }
+input { border: 1px solid #000;  padding: 0px; margin: 0px; background-color: #e8e7e0; border: 1px solid #7b7358; }
+input:disabled { background-color: #7b7358; }
+select { background-color: #e8e7e0; border: 1px solid #7b7358; }
